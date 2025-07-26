@@ -21,7 +21,7 @@ This project implements a secure file access system using invisible hand gesture
 
 
 ## 📁 Files
-- (Coming Soon) `GestureUnlock.pptx` – Project Presentation
+- `GestureUnlock.pptx` – Project Presentation
 - Source code and documentation
 
 
